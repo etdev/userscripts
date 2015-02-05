@@ -13,7 +13,7 @@ window.onload = function() {
   removeSidebar();
   expandMaxWidth();
   preventHorizScrolling();
-}
+};
 
 function removeSidebar() {
   var sidebar = document.getElementById("sidebar");
